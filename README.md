@@ -28,3 +28,6 @@ run in the standard way:
 python word_counter.py
 
 ```
+
+..and see the results in the sample_output.md file
+
